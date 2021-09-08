@@ -1,3 +1,6 @@
 body {
-    background: blue;
+    background: lightgrey;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: medium;
 }
