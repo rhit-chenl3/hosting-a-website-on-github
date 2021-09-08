@@ -9,5 +9,6 @@ body {
 }
 
 img {
-    resize: 50%;
+    width: 200px;
+    height: auto;
 }
