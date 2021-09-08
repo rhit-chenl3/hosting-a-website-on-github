@@ -3,4 +3,11 @@ body {
     font-family:'Segoe UI';
     text-align: center;
     font-size: medium;
+    width: 800px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+img {
+    resize: 50%;
 }
