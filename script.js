@@ -9,7 +9,7 @@ function mouseoverImage(){
 }
 
 function mouseleaveImage(){
-    image.style.removeProperty(transform);
+    image.style.removeProperty('transform');
 }
 
 image.addEventListener('mouseenter', mouseoverImage);
